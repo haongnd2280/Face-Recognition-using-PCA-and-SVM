@@ -23,9 +23,9 @@ This project showed fundamentals of PCA and SVM algorithms and combined them to 
 
 Here are the eigenfaces obtained from using PCA with 150 components
 
-![eigenfaces](https://github.com/haongnd2280/Face-Recognition-using-PCA-and-SVM.git)
-
-and some image reconstruction from eigenfaces
+![eigenfaces]((https://github.com/haongnd2280/Face-Recognition-using-PCA-and-SVM/blob/main/images/eigenfaces.png)
+and some image reconstruction from eigenfaces[
+](https://github.com/haongnd2280/Face-Recognition-using-PCA-and-SVM/blob/main/images/eigenfaces.png)
 
 ![reconstruction](https://github.com/haongnd2280/Face-Recognition-using-PCA-and-SVM/blob/main/images/eigenfaces_reconstruct.png)
 
